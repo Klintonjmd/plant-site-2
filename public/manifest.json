@@ -6,7 +6,7 @@
       "src": "plant-site-icon.ico",
       "sizes": "512x512",
       "type": "image/x-icon"
-    },
+    }
 
   ],
   "start_url": ".",
